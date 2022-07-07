@@ -8,5 +8,5 @@ This site is home to tutorials for the Steam Deck and Linux gaming.
 
 
 ## General Linux Tutorials 
-#1 Link to article
-#1 Link to article
+1. Link to article
+1. Link to article
