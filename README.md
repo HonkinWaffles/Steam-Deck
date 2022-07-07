@@ -5,7 +5,7 @@ This is a blog style repository that contains tutorials on how to achieve specif
 If you have any requests, please reach out on Twitter [@wilhuff66](https://twitter.com/Wilhuff66)
 
 ## My weird requirements
-1. Artwork + `Deck Mode`
+1. Artwork + 'Deck Mode'
     * The two things about the Steam Deck experience I hate is having to run games from desktop mode and an ugly/messy UI experience. Because of this I will spend hours making sure that anything installed outside of Steam launches from in game mode and has all the proper art. 
 
 1. Save Data 
