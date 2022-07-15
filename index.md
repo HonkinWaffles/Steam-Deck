@@ -9,6 +9,6 @@ This blog is home to Steam Deck and Linux gaming information
 1. [Steam Grid DB](https://honkinwaffles.github.io/Steam-Deck/steam-grid-db)
 1. [Nile](https://honkinwaffles.github.io/Steam-Deck/nile)
 
-## General Linux  
+## Specific Games
 1. TBA
 1. TBA
