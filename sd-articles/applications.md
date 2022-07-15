@@ -4,7 +4,7 @@ This is a list of Apps/Programs that I believe are a must install for any deck o
 1. [AnyDesk](https://anydesk.com/en)
     * Location: Discover App
     * Difficulty: Easy
-    * Description: Navigating the desktop on the Steam Deck is manageable but can be pretty frustrating especially when it comes to some of the more advanced setups. AnyDesk lets you control your Steam Deck from another PC making the whole process a lot easier
+    * Description: Navigating the desktop on the Steam Deck is manageable but can be frustrating especially when it comes to some of the more advanced setups. AnyDesk lets you control your Steam Deck from another PC making the whole process a lot easier
 
 1. [ProtonUp-QT](https://davidotek.github.io/protonup-qt/)
     * Location: Discover App
@@ -43,4 +43,4 @@ This is a list of Apps/Programs that I believe are a must install for any deck o
     * Location: [Here](https://github.com/imLinguin/nile)
     * Difficulty: Hard
     * Description: Install games from Amazon Game Store
-    * Guide: TBA 
+    * Guide: TBA
