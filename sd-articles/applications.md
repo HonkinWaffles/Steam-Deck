@@ -43,4 +43,4 @@ This is a list of Apps/Programs that I believe are a must install for any deck o
     * Location: [Here](https://github.com/imLinguin/nile)
     * Difficulty: Hard
     * Description: Install games from Amazon Game Store
-    * Guide: TBA
+    * Guide: [Here](https://github.com/HonkinWaffles/Steam-Deck/blob/main/sd-articles/nile.md)
