@@ -37,7 +37,7 @@ This is a list of Apps/Programs that I believe are a must install for any deck o
     * Location: [Here](https://github.com/boppreh/steamgrid)
     * Difficulty: Medium
     * Description: Install artwork for all non-steam games 
-    * Guide: TBA
+    * Guide: [Here](https://honkinwaffles.github.io/Steam-Deck/steam-grid-db)
 
 1. [Nile](https://github.com/imLinguin/nile)
     * Location: [Here](https://github.com/imLinguin/nile)
