@@ -8,5 +8,5 @@ This blog is home to Steam Deck and Linux gaming information
 
 
 ## General Linux  
-1. Link to article
-1. Link to article
+1. TBA
+1. TBA
