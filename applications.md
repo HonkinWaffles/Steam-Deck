@@ -15,7 +15,7 @@ This is a list of Apps/Programs that I believe are a must install for any deck o
     * Location: [Here](https://www.emudeck.com/#download)
     * Difficulty: Easy
     * Description: The building blocks for all emulation on Steam Deck. This sets up the most popular resources for emulating consoles.
-    * Guide: TBA
+    * Guide: [Here](https://honkinwaffles.github.io/Steam-Deck/emudeck)
 
 1. [Flatseal](https://github.com/tchx84/flatseal)
     * Location: Discover App
