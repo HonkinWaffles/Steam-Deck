@@ -1,9 +1,9 @@
-This site is home to tutorials for the Steam Deck and Linux gaming.
+This blog is home to Steam Deck and Linux gaming information
 
 
 ## Steam Deck Specific  
 
-1. [Must Have Applications](https://github.com/HonkinWaffles/Steam-Deck/blob/gh-pages/applications.md)
+1. [Must Have Applications](https://honkinwaffles.github.io/Steam-Deck//applications.md)
 1. Link to article
 
 
