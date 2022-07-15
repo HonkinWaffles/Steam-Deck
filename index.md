@@ -6,6 +6,7 @@ This blog is home to Steam Deck and Linux gaming information
 1. [Must Have Applications](https://honkinwaffles.github.io/Steam-Deck/applications)
 1. [EmuDeck](https://honkinwaffles.github.io/Steam-Deck/emudeck)
 1. [Lutris](https://honkinwaffles.github.io/Steam-Deck/lutris)
+1. [Steam Grid DB](https://honkinwaffles.github.io/Steam-Deck/steam-grid-db)
 
 ## General Linux  
 1. TBA
