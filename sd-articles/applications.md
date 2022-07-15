@@ -31,13 +31,13 @@ This is a list of Apps/Programs that I believe are a must install for any deck o
     * Location: Discover App
     * Difficulty: Medium
     * Description: Install games from EA, GOG, EGS, and Ubisoft 
-    * Guide: TBA
+    * Guide: [Here](https://github.com/HonkinWaffles/Steam-Deck/blob/main/sd-articles/lutris.md)
 
 1. [Steam Grid DB](https://www.steamgriddb.com/)
     * Location: [Here](https://github.com/boppreh/steamgrid)
     * Difficulty: Medium
     * Description: Install artwork for all non-steam games 
-    * Guide: TBA
+    * Guide: [Here](https://github.com/HonkinWaffles/Steam-Deck/blob/main/sd-articles/steam-grid-db.md)
 
 1. [Nile](https://github.com/imLinguin/nile)
     * Location: [Here](https://github.com/imLinguin/nile)
