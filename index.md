@@ -10,5 +10,5 @@ This blog is home to Steam Deck and Linux gaming information
 1. [Nile](https://honkinwaffles.github.io/Steam-Deck/nile)
 
 ## Specific Games
-1. TBA
+1. [Valhiem+ (Mod)](https://honkinwaffles.github.io/Steam-Deck/valheim-plus)
 1. TBA
